@@ -1,4 +1,5 @@
-# Allow Ensembles Demonstrator
+# DeMOCAS - DoMain Objects for Collective Adaptive Systems
+
 
 IMPORTANT NOTE: this version have manual dependencies inside lib folder, please read with attention following notes
 
